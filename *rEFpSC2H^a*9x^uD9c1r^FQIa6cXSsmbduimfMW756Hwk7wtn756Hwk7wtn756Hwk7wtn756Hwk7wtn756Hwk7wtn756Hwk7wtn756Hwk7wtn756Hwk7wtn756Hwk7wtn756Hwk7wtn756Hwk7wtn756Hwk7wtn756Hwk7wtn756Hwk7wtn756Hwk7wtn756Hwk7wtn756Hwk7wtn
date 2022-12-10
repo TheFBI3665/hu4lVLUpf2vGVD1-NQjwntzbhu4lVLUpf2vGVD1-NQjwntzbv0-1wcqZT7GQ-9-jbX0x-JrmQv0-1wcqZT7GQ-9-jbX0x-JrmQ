@@ -1,3 +1,6 @@
+local alertLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/uniquadev/GuiToLuaConverter/main/PluginPlace/src/alerts.lua
+local TITLE = "System";
+alertLib.Success(screenGui, TITLE, 'ShitX Loader successfully loaded.');
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
